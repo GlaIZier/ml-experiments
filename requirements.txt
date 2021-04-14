@@ -7,4 +7,5 @@ tensorflow
 tensorflow-datasets
 keras
 jupyterlab
+ipywidgets
 tqdm
