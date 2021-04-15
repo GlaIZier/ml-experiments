@@ -17,3 +17,6 @@ DEADJOE
 .logs/
 .ipynb_checkpoints/
 __pycache__
+
+# ml
+data/
