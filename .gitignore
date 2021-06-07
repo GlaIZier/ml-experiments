@@ -19,4 +19,4 @@ DEADJOE
 __pycache__
 
 # ml
-data/
+data-ignored/
