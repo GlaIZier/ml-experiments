@@ -11,6 +11,8 @@ DEADJOE
 *.iws
 *.iml
 
+# Mac
+.DS_Store
 
 #python
 .venv/
