@@ -1,11 +1,9 @@
-numpy==1.19.2 # tensorflow compatibility
 pandas
 matplotlib
 scikit-learn
 xgboost
-tensorflow==2.5.0
+tensorflow
 tensorflow-datasets
-keras
 jupyterlab
 ipywidgets
 tqdm
