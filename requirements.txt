@@ -4,6 +4,7 @@ scikit-learn
 xgboost
 tensorflow
 tensorflow-datasets
+tensorflow_hub
 jupyterlab
 ipywidgets
 tqdm
