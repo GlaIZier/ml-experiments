@@ -5,6 +5,7 @@ xgboost
 tensorflow
 tensorflow-datasets
 tensorflow_hub
+tensorflow-text
 jupyterlab
 ipywidgets
 tqdm
