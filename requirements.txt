@@ -6,6 +6,7 @@ tensorflow
 tensorflow-datasets
 tensorflow_hub
 tensorflow-text
+tensorflow-addons
 jupyterlab
 ipywidgets
 tqdm
