@@ -14,5 +14,6 @@ transformers[tf-cpu]
 tf-agents
 gym[atari,accept-rom-license,box2d]
 opencv-python
+Box2D
 
 absl-py==0.12.0 # tensorflow compatibility
