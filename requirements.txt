@@ -5,7 +5,7 @@ ipywidgets
 tqdm
 matplotlib
 xgboost
-tensorflow
+tensorflow==2.13.0
 tensorflow-datasets
 tensorflow_hub
 tensorflow-text
